@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[17]:
-
-
 def first_unique_character(s):
     char_freq = {}
 
@@ -18,4 +15,3 @@ def first_unique_character(s):
 
     # If no non-repeating character is found, return -1
     return -1
-
