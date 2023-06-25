@@ -33,16 +33,3 @@ def move_zeroes(arr):
             left += 1
 
     return arr
-
-
-# In[16]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
